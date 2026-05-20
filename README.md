@@ -143,10 +143,6 @@ Aspiring Data Analyst | Power BI | SQL | Python
 
 ### 🔗 LinkedIn
 https://linkedin.com/in/ayush-yadav-182913264
-
-### 🔗 GitHub
-(Add your GitHub profile link)
-
 ---
 
 # 📌 Project Status
